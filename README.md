@@ -1,6 +1,6 @@
 # VirtualBox Command Line Interface Utilities
 
-This is a repository of utility scripts which makes our lifes easier when it comes to managing **Oracle VirtualBox** virtual machines using `VBoxManage`.
+This is a repository for utility scripts which make our lifes easier when it comes to managing **Oracle VirtualBox** virtual machines using [`VBoxManage`](https://www.virtualbox.org/manual/ch08.html).
 
 All scripts take necessary command line arguments. If an argument is not provided, value for the variable is prompted. Additionaly, for more convenience, scripts usually print some info to help users woth the input.
 
